@@ -30,4 +30,9 @@ struct ContentView: View {
 
 // make some changes
 
+
 // yeah, I do some  change important 
+
+
+// now its new
+
